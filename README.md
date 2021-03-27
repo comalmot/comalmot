@@ -1,6 +1,6 @@
 ### Hello World!
 
-### KITRI Best of the Best 9th "Digital Forensics"
+### KITRI Best of the Best(BoB) 9th "Digital Forensics"
 
 ### Department of Computer Science & Engineering '21
 
