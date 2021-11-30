@@ -2,7 +2,9 @@
 
 ### KITRI Best of the Best(BoB) 9th "Digital Forensics"
 
-### Department of Computer Science & Engineering '21
+### Chungnam National University CSE '21
+
+###  SECRET Lab. @ CNU
 
 <!--
 **comalmot/comalmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
