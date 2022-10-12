@@ -2,7 +2,7 @@
 
 #### Gunseung Jin(진건승)
 
-### 🛠️ Current Working at...
+### 🛠️ Currently Working at...
 
 - Undegraduate Student Researcher ; SECRET Lab. @ Chungnam National University
 
