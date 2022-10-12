@@ -4,7 +4,7 @@
 
 ### 🛠️ Currently Working at...
 
-- Undegraduate Student Researcher ; SECRET Lab. @ Chungnam National University
+- Undergraduate Student Researcher ; SECRET Lab. @ Chungnam National University
 
 ### 🎓 Educations
 
