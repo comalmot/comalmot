@@ -14,7 +14,7 @@
 
 ### 📖 Projects
 
-- Incognito, "Xpdf 0-day Research" (2022. 08 ~ )
+- Incognito, "Xpdf 0-day Research" (2022. 08 ~ 2022. 11)
 
 - SSL(Stealien Security Leader) 2nd, "Hyper-V 0-day Research" (2021. 07 ~ 2021. 11)
 
