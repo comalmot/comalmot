@@ -4,11 +4,11 @@
 
 ### 🛠️ Currently Working at...
 
-- Undergraduate Student Researcher ; SECRET Lab. @ Chungnam National University
+- M.S Student ; SECRET Lab. @ Chungnam National University
 
 ### 🎓 Educations
 
-- Chungnam National University (2021.3 ~ )
+- B.S. Chungnam National University (2021.3 ~ 2025.2)
 
 - KITRI 'Best of the Best' 9th, Digital Forensics
 
